@@ -478,7 +478,6 @@ G2L["32"] = Instance.new("LocalScript", G2L["31"]);
 
 -- StarterGui.VIP GUI.KEY
 G2L["33"] = Instance.new("Frame", G2L["1"]);
-G2L["33"]["Visible"] = false;
 G2L["33"]["BorderSizePixel"] = 0;
 G2L["33"]["BackgroundColor3"] = Color3.fromRGB(46, 46, 46);
 G2L["33"]["Size"] = UDim2.new(0, 681, 0, 352);
